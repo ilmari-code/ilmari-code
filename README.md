@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on JiNan
 - 🌱 I’m currently learning Swift、Objective-C、Flutter
-<!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: 214681658@qq.com
+<!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
