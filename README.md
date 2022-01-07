@@ -2,8 +2,7 @@
 
 ### 你好，世界 👋
 
-- :a iOSer
-- :like Flutter
+- a iOSer
 
 <!--
 **ilmari-code/ilmari-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
